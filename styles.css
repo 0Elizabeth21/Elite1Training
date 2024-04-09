@@ -131,7 +131,7 @@ footer {
     border-radius: 25px;
 }/* navigation for footer */
 footer a:link {
-    color: white;
+    color: rgb(100, 149, 237);
     text-decoration: none;
 }
 
