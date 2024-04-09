@@ -117,7 +117,7 @@ footer {
     padding: 10px;
     background-color: gray;
     clear: both;
-    color: wheat;
+    color: rgb(100, 149, 237);
     font-weight: bold;
     text-align: center;
 	border-bottom-left-radius: 25px;
@@ -131,7 +131,7 @@ footer {
     border-radius: 25px;
 }/* navigation for footer */
 footer a:link {
-    color: rgb(100, 149, 237);
+    color: white;
     text-decoration: none;
 }
 
