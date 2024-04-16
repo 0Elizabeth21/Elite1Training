@@ -31,7 +31,7 @@ form#survey {
 }
 
 form#survey > * {
-	background-color: rgb(80, 170, 220);
+	background-color: black;
 	border-radius: 20px;
 	flex: 1 1 300px;
 	font-size: 0.85em;
