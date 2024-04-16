@@ -68,8 +68,8 @@ nav ul li a:hover {
     padding: 10px;
     float: left;
     color: black;
-    border-left: 1px solid;
-    border-right: 1px solid;    
+    border-left: 2px solid;
+    border-right: 2px solid;    
     background-image: url(images/training.jpg); 
 }
 
@@ -94,7 +94,7 @@ aside {
 }
 
 aside p {
-    font-style: italic;
+    font-style: times new roman;
     font-size: 0.9em;
 }
 
