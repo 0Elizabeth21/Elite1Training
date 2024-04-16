@@ -31,7 +31,7 @@ form#survey {
 }
 
 form#survey > * {
-	background-color: rgb(241, 232, 181);
+	background-color: rgb(80, 170, 220);
 	border-radius: 20px;
 	flex: 1 1 300px;
 	font-size: 0.85em;
@@ -44,7 +44,7 @@ form#survey > * {
 /* Legend Styles */
 
 legend {
-	background-color: rgb(179, 20, 25);
+	background-color: rgb(80, 170, 220);
 	color: white;
 	padding: 5px;
 
