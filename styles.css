@@ -112,6 +112,81 @@ h3 {
     color:rgb(100, 149, 237);
 }
 
+div.formRow {
+		display: flex;
+		flex-flow: row wrap;
+		margin: 7px 0px;
+	}
+
+div.formRow > * {
+	flex: 1 1 150px;
+
+}
+
+form#survey {
+	display: flex;
+	flex-flow: row wrap;
+
+}
+
+form#survey > * {
+	background-color: rgb(80, 170, 220);
+	border-radius: 20px;
+	flex: 1 1 300px;
+	font-size: 0.85em;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+
+/* Legend Styles */
+
+legend {
+	background-color: black;
+	color: white;
+	padding: 5px;
+
+}
+
+/* Text Area Styles */
+
+textarea {
+	margin-top: 10px;
+	height: 100px;
+	width: 95%;
+
+}
+
+
+/* Spinner Styles */
+
+
+
+/* Form Button Styles */
+
+div#buttons {
+	text-align: center;
+	width: 100%;
+
+}
+
+input[type='submit'], input[type='reset'] {
+	font-size: 1.2em;
+	padding: 5px;
+	margin: 15px;
+
+}
+
+
+/* Validation Styles */
+
+
+
+
+
+
+
 footer {
     width: 910px;
     margin: 0;
