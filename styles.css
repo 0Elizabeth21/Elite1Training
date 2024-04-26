@@ -188,8 +188,8 @@ t
 /* Row Group Styles */
 
 table.schedule thead {
-	background: black;
-	color: white;
+	background: white;
+	color: black;
 }
 
 table.schedule tfoot {
