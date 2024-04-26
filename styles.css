@@ -183,19 +183,12 @@ input[type='submit'], input[type='reset'] {
 t
 
 
-/* Table Caption Styles */
-
-table.schedule caption {
-	caption-side: bottom;
-	text-align: right;
-
-}
 
 
 /* Row Group Styles */
 
 table.schedule thead {
-	background: rgb(153, 0, 152);
+	background: black;
 	color: white;
 }
 
@@ -214,26 +207,16 @@ table.schedule tbody tr {
 /* Column Group Styles */
 
 col#firstCol {
-	background: rgb(218, 210, 218);
+	background: white;
 	width: 16%;
 }
 
 col.dayCols {
-	background: rgb(255, 220, 255);
+	background: rgb(80, 170, 220);
 	width: 12%;
 }
 
 
-
-/* Table Styles */
-
-table.sessions {
-	background: white;
-	border: 10px rgb(100, 149, 237) ;
-	border-collapse: collapse;
-	font-size: 1.5em;
-	width: 100%
-}
 
 
 
