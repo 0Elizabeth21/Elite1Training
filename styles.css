@@ -181,9 +181,9 @@ input[type='submit'], input[type='reset'] {
 
 /* Table Styles */
 
-table.schedule {
+table.sessions {
 	background: white;
-	border: 10px outset orange;
+	border: 10px rgb(100, 149, 237) ;
 	border-collapse: collapse;
 	font-size: 1.5em;
 	width: 100%
