@@ -70,7 +70,7 @@ nav ul li a:hover {
     color: black;
     border-left: 2px solid;
     border-right: 2px solid;    
-    background-image: url(images/training.jpg); 
+     
 }
 
 #main p {
@@ -192,7 +192,7 @@ table.sessions {
 /* Table Cell Styles */
 
 table.sessions th, table.sessions td {
-	border: 1px solid gray;
+	border: 1px black;
 	padding: 5px;
 	vertical-align: top;
 
