@@ -180,23 +180,7 @@ input[type='submit'], input[type='reset'] {
 
 
 
-table.schedule {
-	background: white;
-	border: 10px outset rgb(153, 0, 153);
-	border-collapse: collapse;
-	font-size: 0.75em;
-	width: 100%;
-}
-
-
-/* Table Cell Styles */
-
-table.schedule th, table.schedule td {
-	border: 1px solid gray;
-	padding: 5px;
-	vertical-align: top;
-}
-
+t
 
 
 /* Table Caption Styles */
@@ -241,8 +225,6 @@ col.dayCols {
 
 
 
-
-
 /* Table Styles */
 
 table.sessions {
@@ -253,14 +235,6 @@ table.sessions {
 	width: 100%
 }
 
-/* Table Cell Styles */
-
-table.sessions th, table.sessions td {
-	border: 1px black;
-	padding: 5px;
-	vertical-align: top;
-
-}
 
 
 /* Validation Styles */
