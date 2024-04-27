@@ -248,7 +248,7 @@ footer a:link {
 }
 
 footer a:visited {
-    color: black;
+    color: rgb(80, 170, 220);
     background-color: grey;
     text-decoration: none;
 }
