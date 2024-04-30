@@ -94,7 +94,7 @@ aside {
 }
 
 aside p {
-    font-style: Times New Roman;
+    font-family: "Times New Roman", Times, serif;
     font-size: 0.9em;
 }
 
