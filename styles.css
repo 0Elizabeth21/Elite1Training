@@ -125,7 +125,16 @@ div.formRow > * {
 
 div#buttons {
 	text-align: button;
-	width: 100%;
+	box-sizing: border-box;
+    background-color: buttonface;
+    color: buttontext;
+    white-space: pre;
+    padding-block: 1px;
+    padding-inline: 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
 }
 
 form#survey {
