@@ -123,6 +123,11 @@ div.formRow > * {
 
 }
 
+div#buttons {
+	text-align: button;
+	width: 100%;
+}
+
 form#survey {
 	display: flex;
 	flex-flow: row wrap;
