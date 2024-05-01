@@ -182,7 +182,7 @@ input[type='submit'] {
 	width: 200px;
 }
 
-input[type='cancel'] {
+input[type='reset'] {
 	font-size: 1.2em;
 	padding: 5px;
 	margin: 10px;
