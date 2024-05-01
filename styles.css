@@ -175,13 +175,11 @@ div#buttons {
 
 }
 
-
 input[type='submit'] {
 	font-size: 1.2em;
 	padding: 5px;
 	margin: 10px;
 	width: 200px;
-
 }
 
 input[type='cancel'] {
