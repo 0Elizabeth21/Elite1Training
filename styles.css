@@ -133,7 +133,7 @@ form#survey {
 
 }
 
-form#survey > fieldset {
+form#survey >* {
 	background-color: rgb(80, 170, 220);
 	border-radius: 20px;
 	flex: 1 1 300px;
