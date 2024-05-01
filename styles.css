@@ -124,7 +124,7 @@ div.formRow > * {
 }
 
 div#buttons {
-	text-align: button;
+	text-align: center;
 	box-sizing: border-box;
     background-color: buttonface;
     color: buttontext;
