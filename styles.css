@@ -125,10 +125,6 @@ div.formRow > * {
 
 div#buttons {
 	text-align: center;
-    padding-block: 1px;
-    padding-inline: 6px;
-    border-width: 2px;
-    border-style: outset;
 }
 
 form#survey {
