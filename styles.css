@@ -133,7 +133,7 @@ form#survey {
 
 }
 
-form#survey > * {
+form#survey > fieldset {
 	background-color: rgb(80, 170, 220);
 	border-radius: 20px;
 	flex: 1 1 300px;
@@ -179,7 +179,7 @@ input[type='submit'] {
 	font-size: 1.2em;
 	padding: 5px;
 	margin: 10px;
-	width: 200px;
+	width: 240px;
 }
 
 input[type='reset'] {
