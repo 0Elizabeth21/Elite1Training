@@ -175,7 +175,7 @@ div#buttons {
 
 }
 
-input[type='submit'], input[type='reset'] {
+input[type='submit'], input[type='cancel'] {
 	font-size: 1.2em;
 	padding: 5px;
 	margin: 15px;
